@@ -1,8 +1,3 @@
-Cloud Front 
-https://d1rm5rfiej03jr.cloudfront.net
-
-S3 
-https://rsschool-module2.s3.amazonaws.com/index.html
 
 
 ### What was done?
