@@ -9,6 +9,8 @@
 - Added npm scripts for automated build, deployment, and CloudFront invalidation.
 
 ### Links
+- ShopStack.BucketURL = http://shopstack-myshopbucket3363d19f-vtvugygaezmg.s3-website-us-east-1.amazonaws.com
+- ShopStack.CloudFrontURL = d3etj67o53goqy.cloudfront.net
 - S3 Website: https://rsschool-module2.s3.amazonaws.com/index.html
 - CloudFront URL: https://d1rm5rfiej03jr.cloudfront.net
 
